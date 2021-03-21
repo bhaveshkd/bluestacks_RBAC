@@ -1,0 +1,12 @@
+./src/com/bluestacks/roles/IRole.java
+./src/com/bluestacks/roles/actions/IAction.java
+./src/com/bluestacks/roles/actions/Action.java
+./src/com/bluestacks/roles/Role.java
+./src/com/bluestacks/utils/UserPasswords.java
+./src/com/bluestacks/utils/UtilFunctions.java
+./src/com/bluestacks/RBAManager.java
+./src/com/bluestacks/Main.java
+./src/com/bluestacks/resources/Resource.java
+./src/com/bluestacks/resources/IResource.java
+./src/com/bluestacks/users/IUser.java
+./src/com/bluestacks/users/User.java
